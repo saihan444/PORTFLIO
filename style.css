@@ -386,6 +386,9 @@ top: -150px;
 
   line-height: rem;
 }
+.btn a{
+  text-decoration: none;
+}
 .btn {
   padding: 1em 2em;
   border: none;
